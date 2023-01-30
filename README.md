@@ -1,2 +1,5 @@
-# project-dungeon
- This is my diploma project with dungeon-crawl roguelite game writed on HTML, CSS and JS
+# project-dungeon (not final name)
+
+## About
+
+This is diploma project for my collage. This is small game coded on HTML, CSS and JavaScript.
